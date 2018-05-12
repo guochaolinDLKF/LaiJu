@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5b94b344c59224f42935d1d042703575
+timeCreated: 1496660264
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: download/laiju/audio/soundeffect/0_pokertype-1_niuniu
+  assetBundleVariant: drb

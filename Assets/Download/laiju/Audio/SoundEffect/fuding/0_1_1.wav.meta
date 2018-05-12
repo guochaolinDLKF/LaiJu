@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7703d24478e43f74d84741d7703ccbaa
+timeCreated: 1511320543
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: download/laiju/audio/soundeffect/fuding/0_1_1
+  assetBundleVariant: drb

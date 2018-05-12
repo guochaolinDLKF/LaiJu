@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+  <AssetBundle>
+    <Item Name="涞聚棋牌" Game="laiju" Tag ="Resource" IsFolder="True" IsFirstData="True">
+      <Path Value="download/laiju/" />
+    </Item>
+  </AssetBundle>
+</Root>
